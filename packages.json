@@ -26,5 +26,12 @@
     "url": "https://github.com/HenrikBengtsson/sfit",
     "branch": "master",
     "available": true
+  },
+  {
+    "package": "parallelly",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/parallelly",
+    "branch": "develop",
+    "available": true
   }
 ]
