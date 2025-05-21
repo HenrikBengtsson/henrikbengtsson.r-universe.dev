@@ -7,13 +7,6 @@
     "available": true
   },
   {
-    "package": "doFuture.tests.extra",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/HenrikBengtsson/doFuture.tests.extra",
-    "branch": "main",
-    "available": true
-  },
-  {
     "package": "expectile",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/HenrikBengtsson/expectile",
@@ -24,13 +17,6 @@
     "package": "HaarSeg",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/HenrikBengtsson/HaarSeg",
-    "branch": "main",
-    "available": true
-  },
-  {
-    "package": "marshal",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/HenrikBengtsson/marshal",
     "branch": "main",
     "available": true
   },
